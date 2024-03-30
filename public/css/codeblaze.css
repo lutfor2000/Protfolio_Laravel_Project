@@ -1,0 +1,14 @@
+.dtails_icon{
+    color: rgba(240, 179, 11, 0.941);
+    font-size: 70px;
+}
+.project_img_css{
+    box-shadow: 0px 0px 6px 1px  rgba(243, 199, 2, 0.927);
+    border-radius: 5px;
+    transition: 1s all;
+}
+.project_img_css:hover{
+    box-shadow: 0px 0px 6px 1px  rgba(241, 243, 243, 0.927);
+    border-radius: 5px;
+    transition: 1s all;
+}
